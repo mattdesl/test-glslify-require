@@ -1,0 +1,29 @@
+{
+  "name": "test-glslify-require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "three-sdf-text": "git://github.com/mattdesl/three-sdf-text#v1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/test-glslify-require.git"
+  },
+  "homepage": "https://github.com/mattdesl/test-glslify-require",
+  "bugs": {
+    "url": "https://github.com/mattdesl/test-glslify-require/issues"
+  }
+}
